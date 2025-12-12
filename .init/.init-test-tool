@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/tmp/kavia/workspace/code-generation/notion-inspired-todo-list-3271-3286/frontend"
+}
